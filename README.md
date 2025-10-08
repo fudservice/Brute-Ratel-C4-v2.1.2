@@ -1,4 +1,6 @@
-# Brute Ratel C4 v2.1.2 (Retrace) Functionality
+# Brute Ratel C4 v2.1.2 (Retrace) 
+
+# Functionality
 
 ## Core Evasion and Execution
 - **Syscall Everything**: Bypasses EDR with direct system calls.
